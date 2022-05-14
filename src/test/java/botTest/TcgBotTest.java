@@ -16,6 +16,7 @@ public class TcgBotTest {
 	
 //	- Card Discription (including Card Name, Card Type, Description, Rarity, and # in that order)
 //	- Card Picture
-//	- Current Lowest Price/Condition
+//	- Current Lowest Price/Condition 
+	
 
 }
